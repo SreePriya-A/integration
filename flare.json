@@ -1,0 +1,22 @@
+{
+    "name": "truck",
+    "children": [{
+        "name": "container",
+        "children": [{
+            "name": "package",
+            "children": [{
+                "name": "pkt1",
+                "size": 3938
+            }, {
+                "name": "pkt2",
+                "size": 3812
+            }, {
+                "name": "pkt3",
+                "size": 6714
+            }, {
+                "name": "pkt4",
+                "size": 743
+             }]
+          }]
+      }]
+}
